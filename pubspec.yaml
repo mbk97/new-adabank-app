@@ -80,6 +80,9 @@ flutter:
     - assets/images/shop.png
     - assets/images/travel.png
     - assets/images/Scan.png
+    - assets/images/receipt-text.svg
+    - assets/images/frame.svg
+    - assets/images/sms.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
