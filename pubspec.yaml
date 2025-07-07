@@ -31,6 +31,7 @@ dependencies:
   flutter:
     sdk: flutter
   pinput: ^5.0.1
+  flutter_svg: ^2.0.7 # Or latest version
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -63,6 +64,22 @@ flutter:
     - assets/images/Ellipse 2.png
     - assets/images/wallet-img-welcome-screen.png
     - assets/images/Logo.png
+    - assets/images/image_profile.png
+    - assets/images/Category.svg
+    - assets/images/Wallet.svg
+    - assets/images/top-up.png
+    - assets/images/transfer.png
+    - assets/images/ojaman.png
+    - assets/images/mariana.png
+    - assets/images/jimanti.png
+    - assets/images/jumin.png
+    - assets/images/equip.png
+    - assets/images/ent.png
+    - assets/images/stream.png
+    - assets/images/food.png
+    - assets/images/shop.png
+    - assets/images/travel.png
+    - assets/images/Scan.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
